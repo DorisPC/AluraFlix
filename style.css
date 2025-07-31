@@ -17,3 +17,11 @@ section {
        margin-right: 5%; 
 
 }
+img {
+height: 200 px;
+}
+.categoria vídeos {
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
